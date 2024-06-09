@@ -8,7 +8,7 @@ const Home = () => {
         {/* bg-gradient-to-r from-brightColor to-backgroundColor bg-[#bc8877]*/}
       <div className='w-full lg:w-2/4 space-y-4 mt-14 lg:mt-0'>
         <h1 className='font-semibold text-5xl text-center lg:text-start leading-tight'>Welcome to The Foodie Flair</h1>
-        <div className='flex flex-row gap-6'>
+        <div className='flex flex-col md:flex-row gap-6'>
             <a href="#menu">
             <Button title="View Menu"/>
             </a>
