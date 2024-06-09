@@ -14,7 +14,7 @@ const About = () => {
           <p className="font-semibold size-medium">
             Hey, I am Mira Deshpande, founder of The Foodie Flair. We are a
             home-bakery based in Kothrud, that aims at supplying fresh breads,
-            authentic dips & sauces and wonderfully yummy sweet treats. We also
+            authentic dips & sauces and wonderfully yummy sweet treats. We also have
             some Vegan options on our menu.
           </p>
           <p className="font-semibold size-medium">
